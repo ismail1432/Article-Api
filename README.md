@@ -1,5 +1,6 @@
 Article-Api
 =======
 
-Api project
+Api project developped with Symfony
+
 

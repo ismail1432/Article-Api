@@ -78,3 +78,5 @@ fos_rest:
         formats: { json: true, xml: false, rss: false }
     serializer:
         serialize_null: true
+    body_converter:
+        enabled: true
